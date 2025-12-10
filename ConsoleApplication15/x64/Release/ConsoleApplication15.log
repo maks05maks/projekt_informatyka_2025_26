@@ -1,0 +1,21 @@
+﻿  Brick.cpp
+  GameState.cpp
+  main.cpp
+C:\Users\Admin\source\repos\ConsoleApplication15\ConsoleApplication15\main.cpp(19,51): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\Admin\source\repos\ConsoleApplication15\ConsoleApplication15\main.cpp(19,51): warning C4244:         with
+C:\Users\Admin\source\repos\ConsoleApplication15\ConsoleApplication15\main.cpp(19,51): warning C4244:         [
+C:\Users\Admin\source\repos\ConsoleApplication15\ConsoleApplication15\main.cpp(19,51): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\ConsoleApplication15\ConsoleApplication15\main.cpp(19,51): warning C4244:         ]
+C:\Users\Admin\source\repos\ConsoleApplication15\ConsoleApplication15\main.cpp(19,31): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\Admin\source\repos\ConsoleApplication15\ConsoleApplication15\main.cpp(19,31): warning C4244:         with
+C:\Users\Admin\source\repos\ConsoleApplication15\ConsoleApplication15\main.cpp(19,31): warning C4244:         [
+C:\Users\Admin\source\repos\ConsoleApplication15\ConsoleApplication15\main.cpp(19,31): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\ConsoleApplication15\ConsoleApplication15\main.cpp(19,31): warning C4244:         ]
+  Game.cpp
+  Menu.cpp
+  Trwa generowanie kodu
+  380 of 459 functions (82.8%) were compiled, the rest were copied from previous compilation.
+    171 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  ConsoleApplication15.vcxproj -> C:\Users\Admin\source\repos\ConsoleApplication15\x64\Release\main29.cpp.exe
